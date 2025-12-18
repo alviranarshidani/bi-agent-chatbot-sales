@@ -1,0 +1,9 @@
+date,purchases,redemptions,assets,wholesaler,advisor,mandate_name,fund_type,rvp
+2025-05-01,120000,30000,2500000,Wholesaler A,Advisor X,Mandate Alpha,Equity,Alice
+2025-05-15,90000,15000,2525000,Wholesaler B,Advisor Y,Mandate Beta,Fixed Income,Bob
+2025-06-02,110000,50000,2550000,Wholesaler A,Advisor X,Mandate Alpha,Equity,Alice
+2025-06-18,130000,20000,2580000,Wholesaler C,Advisor Z,Mandate Gamma,Balanced,Carol
+2025-07-05,80000,40000,2600000,Wholesaler B,Advisor Y,Mandate Beta,Fixed Income,Bob
+2025-07-20,150000,60000,2625000,Wholesaler A,Advisor X,Mandate Alpha,Equity,Alice
+2025-08-03,140000,35000,2650000,Wholesaler C,Advisor Z,Mandate Gamma,Balanced,Carol
+2025-08-17,160000,45000,2680000,Wholesaler B,Advisor Y,Mandate Beta,Fixed Income,Bob
